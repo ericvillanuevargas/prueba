@@ -1,0 +1,10 @@
+C:\Users\Eric Villanueva\Desktop\Navegador wed\Navegador wed\bin\Debug\Navegador wed.exe.config
+C:\Users\Eric Villanueva\Desktop\Navegador wed\Navegador wed\bin\Debug\Navegador wed.exe
+C:\Users\Eric Villanueva\Desktop\Navegador wed\Navegador wed\bin\Debug\Navegador wed.pdb
+C:\Users\Eric Villanueva\Desktop\Navegador wed\Navegador wed\obj\Debug\Navegador wed.csprojAssemblyReference.cache
+C:\Users\Eric Villanueva\Desktop\Navegador wed\Navegador wed\obj\Debug\Navegador_wed.Form1.resources
+C:\Users\Eric Villanueva\Desktop\Navegador wed\Navegador wed\obj\Debug\Navegador_wed.Properties.Resources.resources
+C:\Users\Eric Villanueva\Desktop\Navegador wed\Navegador wed\obj\Debug\Navegador wed.csproj.GenerateResource.cache
+C:\Users\Eric Villanueva\Desktop\Navegador wed\Navegador wed\obj\Debug\Navegador wed.csproj.CoreCompileInputs.cache
+C:\Users\Eric Villanueva\Desktop\Navegador wed\Navegador wed\obj\Debug\Navegador wed.exe
+C:\Users\Eric Villanueva\Desktop\Navegador wed\Navegador wed\obj\Debug\Navegador wed.pdb
